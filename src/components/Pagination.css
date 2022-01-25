@@ -1,0 +1,10 @@
+.paginationItems{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.paginationItem{
+    margin: 0 10px;
+    border: 1px solid #000;
+}
